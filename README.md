@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedYahiaoui and my Portfolio : https://ahmedyahiaoui.github.io/Portfolio/
 - 👀 I’m interested in remote full stack development Jobs.
-- 🌱 I’m currently Working and learning .Net Core, Flutter and React JS.
+- 🌱 I’m currently Working and learning Nest JS, Flutter and Next JS.
 - 💞️ I’m looking new opportunity and new Challange.
 - 📫 How to reach me by mail : el.yahyeoui.ahmed@gmail.com
 
